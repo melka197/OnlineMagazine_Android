@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/zanas" android:title="За нас"/>
+    <item android:id="@+id/novo" android:title="Ново"/>
+    <item android:id="@+id/promocii" android:title="Промоции"/>
+    <item android:id="@+id/jeni" android:title="Жени"/>
+    <item android:id="@+id/maje" android:title="Мъже"/>
+    <item android:id="@+id/kontakti" android:title="Контакти"/>
+</menu>
